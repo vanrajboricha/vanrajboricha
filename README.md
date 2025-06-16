@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanrajboricha
-- 👀 I’m interested in Prometheus, Grafana, Alerta
-- 🌱 I’m currently learning AWS 
+- 👀 I’m interested in Azure Cloud, Terraform, ADO, Prometheus, Grafana
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @vanraj723@gmail.com
 
